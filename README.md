@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## My First Github Page
 
 You can use the [editor on GitHub](https://github.com/clarelrobson/stat-184/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
